@@ -4,7 +4,8 @@
     <string name="editors">Создатели</string>
     <string name="settings">Настройки</string>
     <string name="title_activity_play">PlayActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Пища</string>
+    <string name="title_dashboard">Работа</string>
+    <string name="title_notifications">Магазин Улучшений</string>
+    <string name="title_menu">Главное Меню</string>
 </resources>
